@@ -1,0 +1,14 @@
+{
+  "name": "barberx",
+  "version": "1.0.0",
+  "description": "BarberX appointment booking website with admin panel.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.4",
+    "lowdb": "^6.0.3",
+    "nanoid": "^4.0.2"
+  }
+}
